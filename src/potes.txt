@@ -1,0 +1,6 @@
+00; Agua; 1
+01; Zurito; 1
+02; Vino del año; 1
+03; Refresco; 2
+04; Caña; 2
+05; Vino crianza; 2
