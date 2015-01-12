@@ -1,2 +1,2 @@
-00; Tortilla Patata; Huevo, Patata; 1
-01; Foie; Foie; 2
+100;Tortilla Patata;Huevo,Patata;1
+200;Foie;Foie;2

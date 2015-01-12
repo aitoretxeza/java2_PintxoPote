@@ -1,1 +1,2 @@
-00; Urrizpe; Villabona
+100_Urrizpe_Villabona_100;Tortilla Patata;Huevo,Patata;1.200;Foie;Foie;2_100;Agua;1.202;Vino crianza;2
+101_Txurrut_Villabona_100;Tortilla Patata;Huevo,Patata;1_101;Zurito;1.102;Vino del año;1.200;Refresco;2

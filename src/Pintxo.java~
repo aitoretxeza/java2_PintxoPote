@@ -2,7 +2,7 @@ public class Pintxo {
 
 	private int id;
 	private String nombre;
-	private String[] ingredientes;
+	private String ingredientes;
 	private int tipo;
 
 	//1: Basico 2:Selecto
@@ -26,11 +26,11 @@ public class Pintxo {
 		return this.nombre;
 	}
 
-	public void setIngredientes (String[] ingredientesIntroducido) {
+	public void setIngredientes (String ingredientesIntroducido) {
 		this.ingredientes = ingredientesIntroducido;
 	}
 
-	public String[] getIngredientes () {
+	public String getIngredientes () {
 		return this.ingredientes;
 	}
 
